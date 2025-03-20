@@ -1,16 +1,28 @@
+
 ## Hi there 👋
 
-<!--
-**Dianawats/Dianawats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+I'm a passionate software developer, Digital Media (Graphics Design) & Data Scientist with a background in Information Technology, exploring the world of technology and software development. My journey into tech has been driven by curiosity, problem-solving, and a love for continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I enjoy building projects that solve real-world problems and am particularly interested in the intersection of tech and healthcare. Whether it's developing web applications, automating workflows, or analyzing data, I'm always eager to explore new challenges.
+🛠️ Tools & Technologies
+
+    Programming: JavaScript
+    Web Development: HTML, CSS, Bootstrap ,TailWindCSS , Wordpress, Materialize  VueJs, ReactJs, Python, Laravel
+    Version Control: Git, GitHub
+    Learning: Python, React Native, VueJs, Node.js , PHP
+
+📫 Connect with Me
+
+LinkedIn
+Twitter(x)
+
+##🌱 What I'm Working On
+
+    Expanding my knowledge of full-stack web development & Data Analysis.
+    Building projects that combine healthcare and technology and Big Data.
+    Contributing to open-source projects
+
+
 -->
