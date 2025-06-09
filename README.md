@@ -6,7 +6,8 @@
 I'm a passionate software developer, Digital Media (Graphics Design) & Data Scientist with a background in Information Technology, exploring the world of technology and software development. My journey into tech has been driven by curiosity, problem-solving, and a love for continuous learning.
 
 I enjoy building projects that solve real-world problems and am particularly interested in the intersection of tech and healthcare. Whether it's developing web applications, automating workflows, or analyzing data, I'm always eager to explore new challenges.
-🛠️ Tools & Technologies
+
+##🛠️ Tools & Technologies
 
     Programming: JavaScript
     Web Development: HTML, CSS, Bootstrap ,TailWindCSS , Wordpress, Materialize  VueJs, ReactJs, Python, Laravel
