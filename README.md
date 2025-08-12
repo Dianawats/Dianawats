@@ -3,7 +3,7 @@
 
 🚀 About Me
 
-I'm a passionate software developer, AI Business Integrator, Data Scientist & IT/Digital Media specialist with a background in IT, exploring the world of technology and software development. My journey into tech has been driven by curiosity, problem-solving, and a love for continuous learning.
+I'm a passionate IT Lead, software developer, AI Business Integrator, Data Scientist & IT/Digital Media specialist with a background in IT, exploring the world of technology and software development. My journey into tech has been driven by curiosity, problem-solving, and a love for continuous learning.
 
 I enjoy building projects that solve real-world problems and am particularly interested in the intersection of AI tech and healthcare. Whether it's developing web & mobile applications, automating workflows, or analyzing data, I'm always eager to explore new challenges.
 
