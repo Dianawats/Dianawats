@@ -9,10 +9,9 @@ I am aiming at building projects that solve real-world problems and am particula
 
 🛠️ Tools & Technologies
 
-    Programming: JavaScript, etc
-    Web Development: HTML, CSS, Bootstrap ,TailWindCSS , Wordpress, Materialize VueJs, ReactJs, ReactNative, Python, Laravel, Typescript
+    Programming languages: Python, R, JavaScript & PHP etc
+    Web Development Frameworks: HTML, CSS, Bootstrap ,TailWindCSS , Wordpress, Materialize VueJs, ReactJs, ReactNative, Laravel, Typescript, Node Js
     Version Control: Git, GitHub
-    Learning: Python, React Native, VueJs, Node.js , PHP, R, Graphics
 
 📫 Connect with Me
 
@@ -21,9 +20,8 @@ Twitter(x)
 
 🌱 What I'm Working On
 
-    Expanding my knowledge of full-stack web/mobile development, AI Business Solutions & Data Analysis.
-    Building projects that combine AI technology, healthcare & Big Data.
+    Expanding my knowledge of full-stack web/mobile development, Data Analysis & AI Business Solutions.
+    Building projects that combine AI technology & Big Data for Business Continuity.
     Contributing to open-source projects
-
 
 -->
